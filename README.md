@@ -2,7 +2,7 @@
 
 2021.07.05 ~ 2021.08.27
 
-인턴십 프로젝트 Android Google Calendar 프로젝트 스터디 레퍼지토리 입니다.
+인턴십 프로젝트 Android Google Calendar 프로젝트를 진행하며 공부한 내용을 정리한 레포입니다.</br>
 StudyLog 폴더에 스터디 내용을 정리하였습니다.
 
 
